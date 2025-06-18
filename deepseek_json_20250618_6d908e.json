@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Midjourney",
+    "category": "Искусство",
+    "url": "https://www.midjourney.com/home/",
+    "description": "Генератор ИИ-арта на основе Stable Diffusion. Независимая исследовательская лаборатория, изучающая новые средства мышления.",
+    "keywords": ["искусство", "генерация изображений", "stable diffusion"]
+  },
+  {
+    "name": "Midjourney. Бот в ТГ",
+    "category": "Искусство",
+    "url": "https://t.me/gpt3_unlim_chatbot",
+    "description": "Генератор ИИ-арта на основе Stable Diffusion в Telegram.",
+    "keywords": ["телеграм бот", "искусство"]
+  },
+  {
+    "name": "ChatGPT",
+    "category": "Производительность",
+    "url": "https://chat.openai.com",
+    "description": "Оптимизация языковых моделей для диалога. Отвечает на вопросы, признаёт ошибки, отклоняет неуместные запросы.",
+    "keywords": ["чат-бот", "текст", "gpt"]
+  },
+  {
+    "name": "Шедеврум от Яндекса",
+    "category": "Искусство",
+    "url": "https://khedevrum.ai/",
+    "description": "Генерация картинок, текста и видео по текстовому запросу.",
+    "keywords": ["яндекс", "мультимодальность"]
+  },
+  {
+    "name": "Kandinsky by Sher AI",
+    "category": "Искусство",
+    "url": "https://t.me/kandinsky21_bot",
+    "description": "Генерация изображений в разных стилях на основе текстового запроса.",
+    "keywords": ["telegram", "генерация изображений"]
+  },
+  {
+    "name": "Stable Diffusion",
+    "category": "Генератор изображений",
+    "url": "https://stability.ai",
+    "description": "Генератор картинок по текстовому запросу.",
+    "keywords": ["open source", "текст в изображение"]
+  },
+  {
+    "name": "Giga Chat",
+    "category": "Производительность",
+    "url": "https://t.me/gigachat_bot",
+    "description": "Умеет отвечать на вопросы, вести диалог, писать код и рисовать.",
+    "keywords": ["чат-бот", "мультизадачность"]
+  },
+  {
+    "name": "Gamma",
+    "category": "Производительность",
+    "url": "https://gamma.app/",
+    "description": "Создание презентации по вашему скелету.",
+    "keywords": ["презентации", "документы"]
+  }
+]
