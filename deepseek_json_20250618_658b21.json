@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Midjourney",
+    "category": "Генерация изображений",
+    "description": "Генерация изображений по текстовому описанию",
+    "url": "https://www.midjourney.com",
+    "keywords": ["art", "ai art", "картинки"]
+  },
+  {
+    "name": "ChatGPT",
+    "category": "Текст",
+    "description": "Чат-бот с искусственным интеллектом",
+    "url": "https://chat.openai.com",
+    "keywords": ["текст", "chat", "gpt"]
+  }
+]
